@@ -8,7 +8,7 @@ Declaring Variables in JavaScript
 
 | Feature | var | let | const |
 |------|-----|-----|-------|
-| Scope | Function-scoped | Block-scoped | Block-scoped |
+| Scope | Function-scoped | Local-scoped | Local-scoped |
 | Hoisting | Yes (initialized as `undefined`) | Yes (temporal dead zone) | Yes (temporal dead zone) |
 | Redeclaration | Allowed | Not allowed | Not allowed |
 | Reassignment | Allowed | Allowed | Not allowed |
